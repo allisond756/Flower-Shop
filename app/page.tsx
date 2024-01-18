@@ -12,7 +12,7 @@ export default async function Home({ searchParams }: any) {
 
 
   return (
-    <main className='overflow-hidden'>
+    <main className='overflow-hidden bg-orange-50'>
       <Hero />
 
       <div className="mt-12 padding-x padding-y max-width" id="discover">

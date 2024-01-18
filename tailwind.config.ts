@@ -24,6 +24,7 @@ module.exports = {
           750: "#35413a",
           800: "#2e3731",
         },
+        "cream" : "#fffaeb",
         "secondary-orange": "#f79761",
         "light-white": {
           DEFAULT: "rgba(59,60,152,0.03)",
